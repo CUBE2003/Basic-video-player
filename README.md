@@ -41,6 +41,8 @@ Ensure the following dependencies are added to your Android project:
 
 ![WhatsApp Image 2024-05-10 at 19 45 31_2abe4a11](https://github.com/CUBE2003/Basic-video-player/assets/93052603/9bea2ee4-ab80-4a45-ac89-b5b80761fd93)
 ![WhatsApp Image 2024-05-10 at 19 45 39_e3eca58a](https://github.com/CUBE2003/Basic-video-player/assets/93052603/641ba269-d568-4adb-985c-e470d5d72436)
+
+
 https://github.com/CUBE2003/Basic-video-player/assets/93052603/3328332f-92fb-4a75-afa3-9eea93d84347
 
 
