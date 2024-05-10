@@ -2,6 +2,10 @@
 
 This is a simple video player application for Android that leverages Supabase PostgreSQL for video retrieval, Jetpack Compose for the UI, and Kotlin Coroutines for asynchronous programming.
 
+## Download APK
+
+This is the link for the APK of the app: [Download APK](https://drive.google.com/file/d/1XrxxkBEiAgbm7f66cfdkzhx-ucDCtEUx/view?usp=sharing)
+
 ## Features
 
 - **Supabase Integration:** Utilizes Supabase to manage video details and storage. Videos are stored in a designated bucket, and their URLs or bucket paths are stored in the PostgreSQL database.
